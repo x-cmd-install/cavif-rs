@@ -5,7 +5,7 @@ about:
   head: 0516d41
   archived: false
   latestVersion: "v1.8.0"
-  collectedAt: 2026-09-08T02:10:19Z
+  collectedAt: 2026-09-08T04:43:05Z
 timeline:
   created: 2020-08-26
   lastCommit: 2026-09-05
@@ -79,7 +79,7 @@ total:
   commit: 158
 ---
 path: /home/runner/.x-repo/github.com/kornelski/cavif-rs
-collectedAt: 2026-09-08T02:10:20Z
+collectedAt: 2026-09-08T04:43:05Z
 loc:
   Rust:
     code: 1110
