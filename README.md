@@ -1,24 +1,73 @@
 # cavif-rs
 
+[中文版本](./README.cn.md)
+
 AVIF image creator in pure Rust
 
-- **Upstream**: <https://github.com/kornelski/cavif-rs>
-- **Homepage**: <https://lib.rs/cavif>
-- **Latest release**: `v1.8.0` (2026-08-30)
-- **Last commit**: 2026-09-05
-- **License**: BSD-3-Clause
-- **Stars**: 679 · **Forks**: 37 · **Open issues**: 88 · **Contributors**: 13
+![cavif-rs](https://repo.x-cmd.io/cavif-rs.svg)
 
-## Installation
+## Install
 
 ```sh
 x install cavif-rs
 ```
 
-See <https://x-cmd.com/install/cavif-rs> for details.
+## Source
 
-## Data
+- **Upstream**: <https://github.com/kornelski/cavif-rs>
+- **Homepage**: <https://lib.rs/cavif>
+- **License**: BSD-3-Clause
 
-This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
+## Release
 
-_Last regenerated: 2026-09-09T19:07:49Z._
+- **Latest**: `v1.8.0` (2026-08-30)
+- **Last commit**: 2026-09-05
+- **Assets in release**: 2
+- **Published**: 2026-08-30T13:01:56Z
+
+## Popularity
+
+- **Stars**: 679 · **Forks**: 37 · **Open issues**: 88 · **Contributors**: 13
+
+## Totals (cumulative)
+
+- **Releases**: 26 · **Merged PRs**: 18 · **Open PRs**: 4 · **Closed issues**: 80 · **Open issues**: 8 · **Commits**: 158
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 1 | 0 | 1 | 0 | 0 | 3 |
+| 90d | 2026-06-12 | 1 | 0 | 1 | 0 | 1 | 3 |
+| 360d | 2025-09-15 | 1 | 0 | 1 | 4 | 3 | 9 |
+
+## Code size
+
+Total: **1,194** lines of code across **10** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Rust | 1,110 | 16 | 133 | 6 |
+| Toml | 84 | 2 | 16 | 2 |
+| Markdown | 0 | 37 | 24 | 2 |
+
+## OpenSSF Scorecard
+
+Overall score: **2.8 / 10**
+
+Lowest-scoring checks:
+
+- **Code-Review** (1/10) — Found 4/30 approved changesets -- score normalized to 1
+- **Maintained** (2/10) — 3 commit(s) and 0 issue activity found in the last 90 days -- score normalized to 2
+- **Packaging** (-1/10) — packaging workflow not detected
+
+## Improve this data
+
+Install metadata for cavif-rs lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `cavif-rs` is missing, out of date, or installs incorrectly, please open an issue or PR there:
+
+- **Open an issue**: <https://github.com/x-cmd/install/issues/new>
+- **Edit the package entry**: <https://github.com/x-cmd/edit/main/cavif-rs.yml> (or whichever path the index uses)
+
+The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
+
+_Snapshot: `data/card/260910.yml` · 2026-09-10T04:54:30Z._
