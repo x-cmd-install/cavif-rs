@@ -1,0 +1,68 @@
+- repo: aur
+  srcname: cavif
+  binname: cavif
+  visiblename: cavif
+  version: 1.8.0
+  origversion: 1.8.0-1
+  status: newest
+  summary: AVIF image creator in pure Rust
+  maintainers:
+    - chocobo1@aur
+  licenses:
+    - BSD-3-Clause
+- repo: aur
+  srcname: cavif-bin
+  binname: cavif-bin
+  visiblename: cavif-bin
+  version: 1.8.0
+  origversion: 1.8.0-1
+  status: newest
+  summary: AVIF image creator in pure Rust
+  maintainers:
+    - chocobo1@aur
+  licenses:
+    - BSD-3-Clause
+- repo: aur
+  srcname: cavif-git
+  binname: cavif-git
+  visiblename: cavif-git
+  version: 1.6.0.r7.ge9b4542
+  origversion: 1.6.0.r7.ge9b4542-2
+  status: rolling
+  summary: AVIF image creator in pure Rust
+  maintainers:
+    - chocobo1@aur
+  licenses:
+    - BSD-3-Clause
+- repo: nix_stable_26_05
+  srcname: cavif
+  visiblename: cavif
+  version: 1.6.0
+  origversion: null
+  status: outdated
+  summary: Encoder/converter CLI for AVIF images
+  maintainers:
+    - nettika@leaf.ninja
+  licenses:
+    - BSD-3-Clause
+- repo: nix_unstable
+  srcname: cavif
+  visiblename: cavif
+  version: 1.8.0
+  origversion: null
+  status: newest
+  summary: Encoder/converter CLI for AVIF images
+  maintainers:
+    - nettika@leaf.ninja
+  licenses:
+    - BSD-3-Clause
+- repo: termux
+  srcname: cavif
+  binname: cavif
+  visiblename: cavif
+  version: 1.8.0
+  origversion: null
+  status: newest
+  summary: AVIF image creator in pure Rust
+  maintainers:
+    - termux@github
