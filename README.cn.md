@@ -4,7 +4,7 @@
 
 AVIF image creator in pure Rust
 
-![cavif-rs](https://repo.x-cmd.io/cavif-rs.svg)
+![cavif-rs](https://repo.x-cmd.io/cavif-rs.svg?lang=zh)
 
 ## 安装
 
@@ -23,7 +23,13 @@ x install cavif-rs
 - **最新版本**: `v1.8.0` (2026-08-30)
 - **最近提交**: 2026-09-05
 - **Release 含资产**: 2 个
-- **发布时间**: 2026-08-30T13:01:56Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [cavif-1.8.0.zip](https://github.com/kornelski/cavif-rs/releases/download/v1.8.0/cavif-1.8.0.zip) | 5.4 MiB | `other` |
+| [cavif_1.8.0-1_amd64.deb](https://github.com/kornelski/cavif-rs/releases/download/v1.8.0/cavif_1.8.0-1_amd64.deb) | 1.4 MiB | `runtime/deb/amd64` |
 
 ## 流行度
 
@@ -70,4 +76,4 @@ cavif-rs 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:54:31Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:27:09Z._
