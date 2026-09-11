@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 1484340,
       "digest": "sha256:c44781482c6bdfa227e3832212f9c866b19cc084a29dfe4125a755752b67a8ae",
-      "download_count": 52,
+      "download_count": 56,
       "created_at": "2026-08-30T12:57:07Z",
       "updated_at": "2026-08-30T12:57:08Z",
       "browser_download_url": "https://github.com/kornelski/cavif-rs/releases/download/v1.8.0/cavif_1.8.0-1_amd64.deb"
