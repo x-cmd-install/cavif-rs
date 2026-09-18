@@ -46,22 +46,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 679 · **Forks**: 37 · **Open issues**: 88 · **Contributors**: 13
+- **Stars**: 679 · **Forks**: 38 · **Open issues**: 88 · **Contributors**: 13
 
 ## Totals (cumulative)
 
-- **Releases**: 26 · **Merged PRs**: 18 · **Open PRs**: 4 · **Closed issues**: 80 · **Open issues**: 8 · **Commits**: 158
+- **Releases**: 26 · **Merged PRs**: 18 · **Open PRs**: 5 · **Closed issues**: 80 · **Open issues**: 8 · **Commits**: 158
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 1 | 0 | 0 | 0 | 0 | 3 |
-| last60d | 2026-07-19 | 1 | 0 | 1 | 0 | 0 | 3 |
-| 90d | 2026-06-19 | 1 | 0 | 1 | 0 | 1 | 3 |
-| last180d | 2026-03-21 | 1 | 0 | 1 | 0 | 1 | 3 |
-| 360d | 2025-09-22 | 1 | 0 | 1 | 4 | 2 | 9 |
-| last720d | 2024-09-27 | 2 | 7 | 4 | 13 | 4 | 34 |
+| 30d | 2026-08-19 | 1 | 0 | 1 | 0 | 0 | 3 |
+| last60d | 2026-07-20 | 1 | 0 | 2 | 0 | 0 | 3 |
+| 90d | 2026-06-20 | 1 | 0 | 2 | 0 | 1 | 3 |
+| last180d | 2026-03-22 | 1 | 0 | 2 | 0 | 1 | 3 |
+| 360d | 2025-09-23 | 1 | 0 | 2 | 4 | 2 | 9 |
+| last720d | 2024-09-28 | 2 | 7 | 5 | 13 | 4 | 34 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for cavif-rs lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T05:09:25Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:52:53Z._
